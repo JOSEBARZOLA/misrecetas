@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+
+#contenedorImagen{
+padding: 0%;
+height: 300px;
+}
+  #imagen{
+    padding: 0;
+    height: 300px;
+  }
